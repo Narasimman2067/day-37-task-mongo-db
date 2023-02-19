@@ -1,0 +1,26 @@
+[
+    {
+        "name": "sanjay",
+        "time" : "weekday"
+      },
+      {
+        "name": "Arun",
+        "time" : "weekend"
+      },
+      {
+        "name": "Jayavel",
+        "time" : "weekend"
+      },
+      {
+        "name": "shalini",
+        "time" : "weekday"
+      },
+      {
+        "name": "sharmila",
+        "time" : "weekday"
+      },
+      {
+        "name": "surya",
+        "time" : "weekend"
+      }
+]
